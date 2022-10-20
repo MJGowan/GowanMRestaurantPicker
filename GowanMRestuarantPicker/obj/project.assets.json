@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\harry\\.nuget\\packages\\": {}
+    "C:\\Users\\petal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
+      "projectUniqueName": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
       "projectName": "GowanMRestuarantPicker",
-      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
-      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\obj\\",
+      "projectPath": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
+      "packagesPath": "C:\\Users\\petal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\petal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -5,6 +5,14 @@
 //Allow the user to generate a random restuarant. Alternatively,
 //allow the user to pick a category before generating a random eatery
 
+//Peer reviewed by Harrison Busby: "The code looks pretty good, just a couple of
+//minor errors. When you are asked to pick or to randomize, if you input a response
+//that isnt one of those two, the program kills itself. Other than that the data
+//validation on the other responses were unbreakable(at least to my knowledge).
+//Overall good code, just a couple of things to fix and then its great!
+//Good job Maddie! :)
+
+
 Console.Clear();
 
 string[] pickCoffee = { "Starbucks", "Dutch Bros", "Poppy Coffee", "Scooter's", "Empresso", "Terra Coffee", "House of Shaw", "Cafe Acacia", "Color Me Coffee", "Lollicup" };
@@ -78,6 +86,12 @@ if (pickFood == "Y")
 
         Console.Write("Want to pick something else instead? Y or N: ");
         pickFood = Console.ReadLine().ToUpper();
+    }
+    else{
+        Console.WriteLine("Please enter a valid response. ");
+        Console.WriteLine("Would you like to pick a category, or would");
+        Console.Write("you like a random restaurant? Type pick or random: ");
+        pickCategory = Console.ReadLine().ToLower();
     }
 
 
