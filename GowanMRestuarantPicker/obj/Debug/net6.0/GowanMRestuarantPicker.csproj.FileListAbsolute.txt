@@ -13,3 +13,18 @@ C:\Users\petal\Desktop\GowanMRestuarantPicker\obj\Debug\net6.0\refint\GowanMRest
 C:\Users\petal\Desktop\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.pdb
 C:\Users\petal\Desktop\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.genruntimeconfig.cache
 C:\Users\petal\Desktop\GowanMRestuarantPicker\obj\Debug\net6.0\ref\GowanMRestuarantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\bin\Debug\net6.0\GowanMRestuarantPicker.exe
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\bin\Debug\net6.0\GowanMRestuarantPicker.deps.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\bin\Debug\net6.0\GowanMRestuarantPicker.runtimeconfig.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\bin\Debug\net6.0\GowanMRestuarantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\bin\Debug\net6.0\GowanMRestuarantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\refint\GowanMRestuarantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\GowanMRestuarantPicker.genruntimeconfig.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\GowanMRestaurantPicker\GowanMRestuarantPicker\obj\Debug\net6.0\ref\GowanMRestuarantPicker.dll

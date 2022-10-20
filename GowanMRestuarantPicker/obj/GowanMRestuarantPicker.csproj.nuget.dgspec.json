@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj": {}
+    "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj": {
+    "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
+        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
         "projectName": "GowanMRestuarantPicker",
-        "projectPath": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
-        "packagesPath": "C:\\Users\\petal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\petal\\Desktop\\GowanMRestuarantPicker\\obj\\",
+        "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\GowanMRestuarantPicker.csproj",
+        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GowanMRestaurantPicker\\GowanMRestuarantPicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\petal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
